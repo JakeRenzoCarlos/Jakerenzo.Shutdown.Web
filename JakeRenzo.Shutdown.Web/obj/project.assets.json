@@ -13030,30 +13030,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shayne Maravillo\\.nuget\\packages\\": {},
+    "C:\\Users\\COMLABPC15\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shayne Maravillo\\source\\repos\\JakeRenzo.Shutdown\\JakeRenzo.Shutdown.Web\\JakeRenzo.Shutdown.Web.csproj",
+      "projectUniqueName": "C:\\Users\\COMLABPC15\\Documents\\Projects\\Jakerenzo.Shutdown.Web\\JakeRenzo.Shutdown.Web\\JakeRenzo.Shutdown.Web.csproj",
       "projectName": "JakeRenzo.Shutdown.Web",
-      "projectPath": "C:\\Users\\Shayne Maravillo\\source\\repos\\JakeRenzo.Shutdown\\JakeRenzo.Shutdown.Web\\JakeRenzo.Shutdown.Web.csproj",
-      "packagesPath": "C:\\Users\\Shayne Maravillo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shayne Maravillo\\source\\repos\\JakeRenzo.Shutdown\\JakeRenzo.Shutdown.Web\\obj\\",
+      "projectPath": "C:\\Users\\COMLABPC15\\Documents\\Projects\\Jakerenzo.Shutdown.Web\\JakeRenzo.Shutdown.Web\\JakeRenzo.Shutdown.Web.csproj",
+      "packagesPath": "C:\\Users\\COMLABPC15\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\COMLABPC15\\Documents\\Projects\\Jakerenzo.Shutdown.Web\\JakeRenzo.Shutdown.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shayne Maravillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\COMLABPC15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
